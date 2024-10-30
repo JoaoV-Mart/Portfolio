@@ -1,0 +1,104 @@
+.section{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    order:1;
+    width:36vw;
+    height: 45vh;
+    /*border:1px solid white;*/
+    background-color: black;
+    border-radius: 25px;
+    transform: translateX(4%) translateY(15%);
+}
+
+.section2{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    order:1;
+    width:36vw;
+    height: 37vh;
+    /*border:1px solid white;*/
+    background-color: black;
+    border-radius: 25px;
+    transform: translateX(4%) translateY(20%);
+}
+
+.projetos1, .projetos2{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #FFFFFF;
+    border-radius:25px;
+    width:95%;
+    height:45%;
+}
+
+#projeto3, #projeto4, #projeto5{
+    border:1px solid black;
+    width:30%;
+    height:95%;
+
+}
+
+#projeto1, #projeto2{
+    border:1px solid black;
+    width:48%;
+    height:95%;
+} 
+
+#headersection, #title, #github, #linkedin, #descriptionsection, #softsection{
+    border:1px solid #FFFFFF;
+    height: 30px;
+    border-radius: 25px;
+}
+
+#headersection{
+    width:95%;
+    display:flex;
+    flex-direction: row;
+}
+
+#title{
+    display:flex;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: yellow;
+    width:60%;
+}
+
+#title>p{
+    margin-left:5%;
+}
+
+.redessociais{
+    align-items: center;
+    justify-content: space-around;
+    display:flex;
+    flex-direction: row;
+    width:40%;
+    color:white;
+}
+
+#descriptionsection{
+    width:95%;
+    height:35%;
+    color:white;
+}
+
+#softsection{
+    width:95%;
+    height:45%;
+}
+
+#github, #linkedin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: blue;
+    width:48%;
+}

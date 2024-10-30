@@ -1,0 +1,21 @@
+.divs{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    order:1;
+    width:36vw;
+    height: 37vh;
+    background-color: black;
+    border-radius: 25px;
+    transform: translateX(30%) translateY(200%);
+}
+
+.projetos1, .projetos2{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
