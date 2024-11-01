@@ -1,8 +1,8 @@
 .article{
     width:21vw;
-    height:77vh;
+    height:83vh;
     order:1;
     background-color: black;
     border-radius: 25px;
-    transform: translateX(19%) translateY(10%);
+    transform: translateX(19%) translateY(8%);
 }

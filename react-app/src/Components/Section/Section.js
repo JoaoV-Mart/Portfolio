@@ -7,14 +7,14 @@ function Section()
         <section>
             <section className="section">
                 <div id="headersection">
-                    <div id="title"><p>About Me</p></div>
+                    <div id="title"><p>Sobre mim</p></div>
                     <div className="redessociais">
-                        <div id="github">Github</div>
-                        <div id="linkedin">Linkedin</div>
+                        <div id="github"><a href="https://github.com/JoaoV-Mart" target="_blank">Github</a></div>
+                        <div id="linkedin"><a href="https://www.linkedin.com/in/jo%C3%A3o-v%C3%ADtor-97bab9256/" target="_blank" >Linkedin</a></div>
                     </div>
                 </div>
                 <div id="descriptionsection">
-                    <p>Me chamo João Vítor, um jovem de 26 anos, casado, com uma vida pautada por valores cristãos e guiada pelos ensinamentos da Bíblia Sagrada. Fã por esportes, filmes e séries de ficção científica, de heróis e de ação, games e tecnologia. Além dos hobbies, sou um homem conservador e de direita. Procuro abençoar e influenciar positivamente a vida das pessoas ao meu redor, sempre buscando transmitir os valores em que acredito.</p>
+                    <p>Prazer, me chamo <strong>João</strong>, tenho 26 anos e sou casado com a Ana Paula. Procuro ter uma vida guiada pelos ensinamentos da Bíblia buscando influenciar positivamente a vida das pessoas ao meu redor. Sou fã de esportes, filmes e séries de ficção científica, de heróis e de ação, games e tecnologia.</p>
                 </div>
                 <div id="softsection"></div>
             </section>
