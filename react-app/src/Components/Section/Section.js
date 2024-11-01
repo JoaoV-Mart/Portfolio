@@ -14,9 +14,7 @@ function Section()
                     </div>
                 </div>
                 <div id="descriptionsection">
-                    <p>João Sou um jovem de 26 anos, casado, com uma vida pautada por valores cristãos e guiada pelos ensinamentos da Bíblia Sagrada. Apaixonado por esportes, ele mantém uma rotina ativa, dividindo seu tempo entre atividades físicas e momentos de lazer. Nos tempos livres, ele gosta de assistir filmes e séries, especialmente aqueles que trazem a atmosfera nostálgica dos anos 80, uma década que ele admira pela estética e pela cultura. Gamer e entusiasta de tecnologia, João também aproveita o tempo livre para jogar videogame, equilibrando modernidade com seu apreço por histórias em quadrinhos.
-                    <br/>
-                    Além dos hobbies, João é um homem conservador e de direita, sustentando princípios que refletem suas crenças e valores cristãos. Ele se dedica a abençoar e influenciar positivamente a vida das pessoas ao seu redor, sempre buscando transmitir os valores em que acredita. Admirador da natureza, ele encontra paz ao ar livre e valoriza momentos de contemplação e conexão com o mundo natural.</p>
+                    <p>Me chamo João Vítor, um jovem de 26 anos, casado, com uma vida pautada por valores cristãos e guiada pelos ensinamentos da Bíblia Sagrada. Fã por esportes, filmes e séries de ficção científica, de heróis e de ação, games e tecnologia. Além dos hobbies, sou um homem conservador e de direita. Procuro abençoar e influenciar positivamente a vida das pessoas ao meu redor, sempre buscando transmitir os valores em que acredito.</p>
                 </div>
                 <div id="softsection"></div>
             </section>
